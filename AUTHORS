@@ -3,5 +3,5 @@
 git shortlog -se \
   | perl -spe 's/^\s+\d+\s+//' \
   | sed -e '/^CommitSyncScript.*$/d' \
-  > Charles Onochie <xebrian@yahoo.com>
-  > Meriem Lakhal <mariemlakhal28@gmail.com>
+   Charles Onochie <xebrian@yahoo.com>
+   Meriem Lakhal <mariemlakhal28@gmail.com>
